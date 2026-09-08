@@ -9,3 +9,5 @@ Automação de geração de currículos e organização de banco de talentos uti
 
 GitHub: https://github.com/sayjinblackbelt  
 Repository: https://github.com/sayjinblackbelt/2026_Professional_Projects_Automacao_Curriculos_Banco_Talentos
+
+<!-- CI trigger: documentation validation -->
